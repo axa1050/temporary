@@ -12,3 +12,4 @@
  
  
  
+ alias baxter_master='export ROS_MASTER_URI=http://129.22.149.130:11311'
